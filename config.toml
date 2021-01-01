@@ -1,6 +1,6 @@
-baseURL = "https://axiom-example.netlify.app"
+baseURL = "https://www.learncsintamil.com"
 
-title = "Axiom Example"
+title = "Learn CS in Tamil"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -19,28 +19,26 @@ posts = "/:filename"
 
 [params]
 mainSections = ["posts"]
-copyrightYear = 2019
+copyrightYear = 2021
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
-dateFormat = "Jan 2, 2006 3:04PM"
+dateFormat = "Jan 2, 2006"
 highlight = "dark"
 
 [params.brand]
-domain = "example.com"
-email = "info@example.com"
+domain = "learncsintamil.com"
+email = "info@learncsintamil.com"
 
 [params.social]
-facebook = "https://www.facebook.com/user_or_page"
-github = "https://github.com/user"
-instagram = "https://instagram.com/user"
-linkedin = "https://www.linkedin.com/in/user"
-pinterest = "https://www.pinterest.com/user"
-stackoverflow = "https://stackoverflow.com/users/user"
-twitter = "https://twitter.com/axiomtheme"
-youtube = "https://www.youtube.com/user"
-footer = ["twitter", "github", "instagram"]
+facebook = "https://www.facebook.com/learncsintamil"
+github = "https://github.com/learncsintamil"
+instagram = "https://instagram.com/learncsintamil"
+linkedin = "https://www.linkedin.com/in/tamizhvendan"
+twitter = "https://twitter.com/learncsintamil"
+youtube = "https://www.youtube.com/learncsintamil"
+footer = ["linkedin", "twitter", "github", "instagram", "facebook"]
 
 [params.services]
-googleAnalyticsId = "UA-160259978-2"
+googleAnalyticsId = "UA-173138897-1"
 googleTagManagerId = ""
 googleAdsId = ""
 googleAdsenseId = ""
@@ -135,20 +133,20 @@ url = "/posts/"
 name = "Posts"
 weight = 1
 
-[[menu.foot]]
-url = "/about/"
-name = "About"
-weight = 2
+# [[menu.foot]]
+# url = "/about/"
+# name = "About"
+# weight = 2
 
-[[menu.foot]]
-url = "/contact/"
-name = "Contact"
-weight = 3
+# [[menu.foot]]
+# url = "/contact/"
+# name = "Contact"
+# weight = 3
 
-[[menu.foot]]
-url = "/privacy/"
-name = "Privacy"
-weight = 4
+# [[menu.foot]]
+# url = "/privacy/"
+# name = "Privacy"
+# weight = 4
 
 [languages]
 [languages."en"]

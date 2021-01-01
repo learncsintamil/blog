@@ -1,9 +1,9 @@
 [default]
-name = "Axiom Theme"
-uri = "https://example.com/"
-email = "info@example.com"
-twitter = "example"
-image = "image/author/default.webp"
+name = "Tamizhvendan S"
+uri = "https://learncsintamil"
+email = "info@learncsintamil.com"
+twitter = "tamizhvendan"
+image = "image/author/me.jpeg"
 
 [axiom]
 name = "Axiom Theme"
